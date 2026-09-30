@@ -1,0 +1,20 @@
+部署内容已就绪
+
+请上传 deploy 文件夹中的全部内容，并确保 index.html 位于部署根目录。
+不要只上传 index.html；assets 和 reports 文件夹必须一起上传并保留结构。
+
+index.html          项目作品页
+assets/screens/     截图与视频封面
+assets/video/history-review.mp4  已接入的视频（19,067,660字节，约19.07MB）
+reports/            日报与周报HTML
+
+页面内视频配置已启用（ready: true），使用相对路径 assets/video/history-review.mp4。
+本次已直接补齐部署素材，无需另外修改 config.js 或重新打包。
+视频使用H.264/AAC编码，已启用faststart，适合网页播放。
+
+上传到你选择的Pageone部署服务后，请打开公开网址检查：
+1. 首页、截图与封面正常显示。
+2. 视频可播放、有声音、可拖动进度及全屏。
+3. 日报和周报入口能够打开。
+
+原始压缩视频仍保留在作品素材目录。后续更换视频时保持同一路径及文件名即可。
